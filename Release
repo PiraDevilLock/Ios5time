@@ -1,0 +1,6 @@
+Origin: Ios5Time: Ios5Time: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Ios5Time - a cydia repo
